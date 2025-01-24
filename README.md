@@ -9,7 +9,7 @@
 
 ![My Image](https://github.com/shreymukh2020/Microsoft-Stock-price-prediction-with-LSTM/blob/main/Img_4.png)
 
-![My Image](https://github.com/shreymukh2020/Microsoft-Stock-price-prediction-with-LSTM/blob/main/Img_5.jpg)
+![My Image](https://github.com/shreymukh2020/Microsoft-Stock-price-prediction-with-LSTM/blob/main/Img_5.png)
 
 
 
